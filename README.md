@@ -1,11 +1,16 @@
-### Olá, tudo bem? Espero que sim. 
-Meu nome é Emanuel, tenho 19 anos e sou um estudante e praticante de programação.
-Atualmente estou terminando um curso técnico de Desenvolvimento de Sistemas, e inicializando um bacharelado em ciência da computação.
+### Hello everything is fine? I hope so. 
+My name is Emanuel, I'm 19 years old and I'm a student and practitioner of programming. I'm currently finishing a technical course in Systems Development, and starting a bachelor's degree in computer science.
 
 
-- 🔭 Hoje estou trabalhando com Front-End como Freelancer
-- 🌱 Estudanto mais sobre JavaScript
-- 😄 Pronouns: ele/dele
+- 🔭 Today I'm working with Front-End as a Freelancer
+- 🌱 Learn more about JavaScript
+- 😄 Pronouns: him/his
+
+### Connect with me:
+<div>
+  <a href="https://instagram.com/emanuel-duarte-de-oliveira-40a916193/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/emanuel-duarte-de-oliveira-40a916193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=oemanuelduarte&show_icons=true&theme=dark"
