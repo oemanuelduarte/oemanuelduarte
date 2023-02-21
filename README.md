@@ -21,6 +21,5 @@ My name is Emanuel, I'm 19 years old and I'm a student and practitioner of progr
   media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=oemanuelduarte&show_icons=true" />
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oemanuelduarte&layout=compact&langs_count=16&theme=tokyonight"/>
 </picture>
 
