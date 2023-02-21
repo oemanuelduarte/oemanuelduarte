@@ -8,7 +8,7 @@ My name is Emanuel, I'm 19 years old and I'm a student and practitioner of progr
 
 ### Connect with me:
 <div>
-  <a href="[https://instagram.com/emanuel-duarte-de-oliveira-40a916193/](https://www.instagram.com/oemanuelduarte/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/oemanuelduarte/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/emanuel-duarte-de-oliveira-40a916193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <picture>
