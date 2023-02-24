@@ -14,11 +14,11 @@ My name is Emanuel, I'm 19 years old and I'm a student and practitioner of progr
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=oemanuelduarte&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
+  media="(prefers-color-scheme: white)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=oemanuelduarte&show_icons=true"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: white)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=oemanuelduarte&show_icons=true"/>
 </picture>
