@@ -6,6 +6,8 @@ My name is Emanuel, I'm 19 years old and I'm a student and practitioner of progr
 - 🌱 Learn more about JavaScript
 - 😄 Pronouns: him/his
 
+<a target="blank" href="https://profile-counter.glitch.me/oemanuelduarte/count.svg"><p align="center">❤ Número de Visitantes ❤<br><br> <img src="https://profile-counter.glitch.me/oemanuelduarte/count.svg" /></a>
+
 ### Connect with me:
 <div>
   <a href="https://www.instagram.com/oemanuelduarte/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
