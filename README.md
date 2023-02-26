@@ -5,9 +5,7 @@ My name is Emanuel, I'm 19 years old and I'm a student and practitioner of progr
 - 🔭 Today I'm working with Front-End as a Freelancer
 - 🌱 Learn more about JavaScript
 - 😄 Pronouns: him/his
-
-<a target="blank" href="https://profile-counter.glitch.me/oemanuelduarte/count.svg"><p align="center">❤ Número de Visitantes ❤<br><br> <img src="https://profile-counter.glitch.me/oemanuelduarte/count.svg" /></a>
-
+<a target="blank" href="https://profile-counter.glitch.me/oemanuelduarte/count.svg"><p align="center">❤ <>Number of visitors</> ❤<br><br> <img src="https://profile-counter.glitch.me/oemanuelduarte/count.svg" /></a>
 ### Connect with me:
 <div>
   <a href="https://www.instagram.com/oemanuelduarte/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -15,8 +13,8 @@ My name is Emanuel, I'm 19 years old and I'm a student and practitioner of progr
 </div>
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=oemanuelduarte&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: white)"
+  srcset="https://github-readme-stats.vercel.app/api?username=oemanuelduarte&show_icons=true&theme=dark" 
+  media="(prefers-color-scheme: white)" 
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=oemanuelduarte&show_icons=true"
@@ -25,4 +23,3 @@ My name is Emanuel, I'm 19 years old and I'm a student and practitioner of progr
 <img src="https://github-readme-stats.vercel.app/api?username=oemanuelduarte&show_icons=true"/>
 </picture>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oemanuelduarte&layout=compact&langs_count=7&theme=white"/>
-
