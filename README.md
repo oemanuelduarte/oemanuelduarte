@@ -2,7 +2,7 @@
 My name is Emanuel, I'm 19 years old and I'm a student and practitioner of programming. I'm currently finishing a technical course in Systems Development, and starting a bachelor's degree in computer science.
 
 
-- 🔭 Today I'm working with Front-End as a Freelancer
+- 🔭 Today I'm working with Front-End as a Freelancer 
 - 🌱 Learn more about JavaScript
 - 😄 Pronouns: him/his
 <a target="blank" href="https://profile-counter.glitch.me/oemanuelduarte/count.svg"><p align="center">❤ <>Number of visitors</> ❤<br><br> <img src="https://profile-counter.glitch.me/oemanuelduarte/count.svg" /></a>
