@@ -3,7 +3,7 @@ My name is Emanuel, I'm 19 years old and I'm a student and practitioner of progr
 
 
 - 🔭 Today I'm working with Front-End as a Freelancer 
-- 🌱 Learn more about JavaScript
+- 🌱 Learn more about JavaScript/Jquery
 - 😄 Pronouns: him/his
 <a target="blank" href="https://profile-counter.glitch.me/oemanuelduarte/count.svg"><p align="center">❤ <>Number of visitors</> ❤<br><br> <img src="https://profile-counter.glitch.me/oemanuelduarte/count.svg" /></a>
 ### Connect with me:
